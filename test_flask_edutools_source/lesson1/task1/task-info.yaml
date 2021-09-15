@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: task.py
+  visible: true
+message_correct: Отлично, ваш код решения Z177-61!
+message_incorrect: Увы,но нет, попробуйте снова!
